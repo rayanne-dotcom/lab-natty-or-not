@@ -1,7 +1,7 @@
 # What if we could fly? ;)
 
 ## 📒 Descrição
-Uma pequena simulação de como eu seria se tivesse asas e pudesse voar...
+Uma pequena simulação de como eu seria se tivesse asas e pudesse voar... ![wings-Photoroom](https://github.com/user-attachments/assets/a6d2d8e1-91e9-40ec-b30d-d86b01d339e2)
 
 ## 🤖 Tecnologias Utilizadas
 Utilizei o Photoroom para poder realizar a simulação utilizando IA
@@ -14,3 +14,4 @@ Ficou parecendo que eu era um tipo de anjo ou uma espécie de pássaro
 
 ## 💭 Reflexão (Opcional)
 Um pequeno desafio foi de encontrar uma imagem que se alinhasse ao que eu desejaria realizar no processo de utilização de IA e que não parecesse muito falso hehehehe
+
